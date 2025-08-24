@@ -10,7 +10,7 @@ This guide provides an overview of the set-up, pack-down, troubleshooting, and s
 
 * 1.1 Av exist of multiple cases, we have:
 
-    * 1 server rack case -> can be found in the hallway between subroom 1 and the auditorium it looks like ![serverRack](https://github.com/HillsongAmsProduction/AV/blob/main/av_guide_images/ServerReckFrontClosed.jpeg)
+    * 1 server rack case -> can be found in the hallway between subroom 1 and the auditorium it looks like ![serverRack](/av_guide_images/ServerReckFrontClosed.jpeg)
     * 1 playout case -> can be found in the hallway between subroom 1 and the auditorium it looks like ![playoutCase](/av_guide_images/Playout.jpeg)
     * 3 pc cases -> found in the storage looks like the playout case but less deep called: admin, overlay, songwords in the songwords case is a white speaker
     * 1 av tower case -> found in the storage
