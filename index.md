@@ -48,4 +48,10 @@ two are placed in frond of the tv for the film team one is placed left between t
   * 1.5.4 the white speaker is in the songwords case connect the power cable to the speaker and plug it in the wall outlet under the tv or use the tulp power output on the server rack. the xlr cable needs to be connected on the right side of the server rack on the left xlr output this cable can be found in the songwords case, multiview cases or server rack, if not found pick one from the sound tower in the auditorium
 
 * 1.6 turning on the LED screen
-  * 1.6.1 the LED screen can be turned on with the server rack in the middle behind the LED screen you will find 
+  * 1.6.1 the LED screen can be turned on with the server rack in the middle behind the LED screen you will find a server rack like this ![ledScreenRack](/av_guide_images/AV_ServerRackOff.jpeg) switch all the red switches upstarting with the one labeled hooftschakelaar then do the other two red switches, what can happen is that one or more of the gray switches will flip to a middel position, if so flick them first down and then up again so everything looks like this: ![ledScreenRackOn](/av_guide_images/AV_ServerRackON.jpeg)
+  * 1.6.2 on the bottem there is a stream deck mini, on there is a hillsong setting and a 35% setting makes sure these are selected
+
+* 1.7 stageScreens 
+  * 1.7.1 We have two stage screens in the auditorium, one in front of the auditorium on the left side of the stage before the piano, this screen, stand and power cable can be found in a case called 8x screens. this screen is connected to the fiberbox under the stage on the left side with a sdi cable av uses the last port of the fiberbox
+  * 2.7.2 The second screen is on a truss in the storage. The sdi and power cable is included in the truss. We put the screen in the back in the middle of the auditorium. 
+  
