@@ -39,6 +39,7 @@ two are placed in frond of the tv for the film team one is placed left between t
   * 1.4.7 the fiber cables need to be connected to the black box in the front of the server rack labeled stage and FOH
   * 1.4.8 the network cables need to be connected front of the server rack in the network ports labeled 6.1 and 6.2
   * 1.4.9 when this is all done the server rack can be turned on by switching the 4 power switches on the back of the server rack to the on position from top to bottom
+  * 1.4.10 Connect the greengo for the playout and the overlays with a greengo network cable you can take from the greengo tower case. the greengo can be connected from the dedicated station so playout greengo will connect to the playout greengo network point
 
 * 1.5 connecting the multiviews film team desk and white speaker
   * 1.5.1 the multiview cases have a cable in the case with tulp connectors on both sides in the front of the server case on the right bottem you have white tulp power outputs the cable can be connected there and put in the back of the MultiView case in the power input, ![MultiviewPowerConnection](/av_guide_images/Av_MultiviewConnetion.jpeg)
@@ -52,6 +53,68 @@ two are placed in frond of the tv for the film team one is placed left between t
   * 1.6.2 on the bottem there is a stream deck mini, on there is a hillsong setting and a 35% setting makes sure these are selected
 
 * 1.7 stageScreens 
-  * 1.7.1 We have two stage screens in the auditorium, one in front of the auditorium on the left side of the stage before the piano, this screen, stand and power cable can be found in a case called 8x screens. this screen is connected to the fiberbox under the stage on the left side with a sdi cable av uses the last port of the fiberbox
-  * 2.7.2 The second screen is on a truss in the storage. The sdi and power cable is included in the truss. We put the screen in the back in the middle of the auditorium. 
+  * 1.7.1 We have two stage screens in the auditorium, one in front of the auditorium on the left side of the stage before the piano, this screen, stand and power cable can be found in a case called 8x screens. this screen is connected to the fiberbox under the stage on the left side with a sdi cable av uses the last port of the fiberbox![StageScreenFront](/av_guide_images/AV_StageScreenFront.jpeg) looks like: ![FiberBox](/av_guide_images/FiberboxFront.jpeg)
+  * 2.7.2 The second screen is on a truss in the storage. The sdi and power cable is included in the truss. We put the screen in the back in the middle of the auditorium. this screen we conned to the fiberbox that lays in the FOH also for this we use the last output ![StageScreenBack](/av_guide_images/AV_Tv_placement.jpeg) ![StageScreenPower](/av_guide_images/AV_TvPowerCable.jpeg) ![StageScreenSdi](/av_guide_images/AV_TvSdi.jpeg)
   
+This was the setup for av
+
+### pack-down
+
+Pack down is basically the reverse of the setup process but there are a few things to keep in mind:
+* first turn off the pc's in the cases, then turn off the server rack on the back side by switching all 4 power switches to the off position from bottom to top.
+* Then turn off the LED screen press the big power button of the LED controller then twist the knop and press power down do this for both led controllers, when they both show a red light you can proseed by switching all red switches down starting with the one labeled hooftschakelaar then do the other two red switches ![ledScreenRackOff](/av_guide_images/AV_ServerRackOff.jpeg)
+* Then start disconnecting all cables and pack everything back in the cases.
+* Try to roll all cables up in this way this wil ensure the cables last longer: https://youtu.be/uKlaXb-fLrg?si=7k0wZazKSaeWO31q
+* The server rack and the playout need to go back in the hallway between subroom 1 and the auditorium all other cases go to the storage.
+
+### equipment
+
+In here we describe the equipment present in the av setup how they work what you need to know to operate them and where to find the manuals
+
+* av server rack
+ * Allen & heath DT168: [DT168-Getting-Started](/Documents/AV_SERVER_RACK/AP11788_4-DT168-Getting-Started-Guide-Issue-4.pdf) [DT168-Technical-Datasheet](/Documents/AV_SERVER_RACK/DT168-Technical-Datasheet.pdf) 
+ * Allen & heath SQ-5: [SQ-5-Introduction](/Documents/AV_SERVER_RACK/SQ5_AP11089_Introduction_issue2.pdf) [SQ-5-Technical-Datasheet](/Documents/AV_SERVER_RACK/SQ-5-Technical-Datasheet_G.pdf)
+ * Luminex GigaCore 26i: [GigaCore-26i-Manual](/Documents/AV_SERVER_RACK/User-Manual_GigaCore-26i_rev-2.8.8.pdf)
+ * Ubiquiti Security Gateway Professional USG-PRO-4: https://dl.ubnt.com/qsg/USG-PRO-4/USG-PRO-4_EN.html#OnlineResources [USG-PRO-4-Manual](/Documents/AV_SERVER_RACK/UniFi_Security_Gateway_DS.pdf)
+ * Blackmagic Design HyperDeck Studio 4K Pro: [HyperDeck-Studio-4K-Pro-techspecs](/Documents/AV_SERVER_RACK/hyperdeck-studio-4k-pro-techspecs.pdf) https://documents.blackmagicdesign.com/UserManuals/HyperDeckHDManual.pdf
+ * sonifex DIO10: https://www.sonifex.com/avn/avn-dio10-12g.shtml
+ * Blackmagic Mini Converter SDI to Audio 4k: [Sdi-To-Audio-Tech-Sheet](/Documents/AV_SERVER_RACK/mini-converter-sdi-to-audio-techspecs.pdf)  https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+ * Dante avio: https://www.getdante.com/products/adapters/dante-avio-adapters/
+ * AJA HELO: [aja-helo](/Documents/AV_SERVER_RACK/AJA_HELO_Manual_v4.0.pdf)  [aja-helo-techspecs](/Documents/AV_SERVER_RACK/helo-spec-sheet.pdf)
+ * Blackmagic Web Presenter HD: https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+ * Art mx225: [Art-mx225-manual](/Documents/AV_SERVER_RACK/om-mx225.pdf)
+ * Resi Encoder E2211: Contact Resi for questions https://resi.io/support/
+ * Blackmagic Atem constellation 8k: https://www.blackmagicdesign.com/nl/developer/products/atem/resources
+ * Blackmagic videohub 20x20: https://documents.blackmagicdesign.com/UserManuals/VideohubInstallation.pdf
+ * Blackmagic Mini Converter Optical Fiber (12K): https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+ * Decimator 12G-CROSS: [Decimator-Manual](/Documents/AV_SERVER_RACK/12G-CROSS_HARDWARE_MANUAL_FV1.0.pdf)
+
+* playout case
+  * Mac pro 2019
+    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter 
+    * ProVideoPlayer: https://www.renewedvision.com/provideoplayer https://support.renewedvision.com/hc/en-us/sections/360002436053-ProVideoPlayer
+  * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
+  * Blackmagic sdi to hdmi 3g: https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+
+* overlay case
+  * Mac mini m1
+    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter 
+  * Echo III Rackmount: [Echo-III-Rackmount-Manual](/Documents/echo_iii_rackmount_ug.pdf)
+    * Blackmagic Decklink Duo 2: https://www.blackmagicdesign.com/nl/welcome/en
+  * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
+
+* admin case
+  * Mac mini m1
+    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter
+  * Echo III Rackmount: [Echo-III-Rackmount-Manual](/Documents/echo_iii_rackmount_ug.pdf)
+      * Blackmagic Decklink Duo 2: https://www.blackmagicdesign.com/nl/welcome/en
+  * Resi Decoder D2010: Contact Resi for questions https://resi.io/support/
+  * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
+
+* Songwords case
+  * Mac mini m1
+    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter
+  * Echo III Rackmount: [Echo-III-Rackmount-Manual](/Documents/echo_iii_rackmount_ug.pdf)
+      * Blackmagic Decklink Duo 2: https://www.blackmagicdesign.com/nl/welcome/en
+  * Art mx225: [Art-mx225-manual](/Documents/AV_SERVER_RACK/om-mx225.pdf)
+  * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
