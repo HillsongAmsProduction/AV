@@ -58,6 +58,12 @@ two are placed in frond of the tv for the film team one is placed left between t
   
 This was the setup for av
 
+2. **8am - 10am**: Test all AV equipment to ensure everything is functioning properly. Make any necessary adjustments. prepare for the service
+* 1 prayer and praise and screens
+  * 1.2 go to the gmail and get the prayer and praises for that day place the prayers on the prayers slide in propresenter and the praises on the praises slide in propresenter if needed copy the slide and split the praises/prayers over multiple slides 
+  * 1.3 get the sreens from the onedrive and place them in the correct section in propresenter
+  * 1.4 make sure you scill to fill the photo is selected in propresenter videos are normally not scill to fill because the people in the video will be cut off or appear very wide.
+
 ### pack-down
 
 Pack down is basically the reverse of the setup process but there are a few things to keep in mind:
@@ -118,3 +124,21 @@ In here we describe the equipment present in the av setup how they work what you
       * Blackmagic Decklink Duo 2: https://www.blackmagicdesign.com/nl/welcome/en
   * Art mx225: [Art-mx225-manual](/Documents/AV_SERVER_RACK/om-mx225.pdf)
   * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
+
+
+### Cable types
+
+* SDI: Serial Digital Interface, a standard for transmitting digital signals over coaxial cable. This cable need to be turned while connecting it to the sdi ports. 
+![SDI Cable](/av_guide_images/CableConnectors/DSI.jpeg)
+* HDMI: High-Definition Multimedia Interface, a standard for transmitting high-definition video and audio signals over a single cable.
+  ![HDMI Cable](/av_guide_images/CableConnectors/HDMI-Connector.jpg)
+* XLR: A type of connector commonly used for professional audio equipment. It is typically used for microphones and other balanced audio signals. female XLR connectors are used for inputs male XLR connectors are used for outputs.
+![XLR Cable](/av_guide_images/CableConnectors/Xlr-connectors.jpg)
+* Jack (1/4 inch): A type of connector commonly used for audio equipment. It is typically used for instruments and other unbalanced audio signals.
+![Jack Cable](/av_guide_images/CableConnectors/jack.jpg)
+* Ethernet (RJ45): A type of connector commonly used for networking equipment. It is typically used for connecting computers and other devices to a local area network (LAN).
+![Ethernet Cable](/av_guide_images/CableConnectors/ethernet.jpg) ![Ethernet Cable2](/av_guide_images/CableConnectors/2109-etherCON-NE8MXX-B.png)
+* Fiber optic: A type of cable that uses light to transmit data. It is typically used
+![Optical Fiber Cable](/av_guide_images/CableConnectors/fiberoptic.jpeg) ![opticalcon](/av_guide_images/CableConnectors/3868-opticalCONADVANCEDCableConnectorMTP12.png)
+* Power (Euro and Tulp): Cables used to provide electrical power to devices. Euro cables are commonly used in Europe, while Tulp cables are commonly used in consumer electronics.
+![c13](/av_guide_images/CableConnectors/c13.jpg) ![Power Cable Tulp](/av_guide_images/CableConnectors/tulp.webp) ![twinoppower](/av_guide_images/CableConnectors/twopinPower.jpg)
