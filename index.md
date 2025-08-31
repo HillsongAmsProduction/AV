@@ -125,6 +125,9 @@ In here we describe the equipment present in the av setup how they work what you
   * Art mx225: [Art-mx225-manual](/Documents/AV_SERVER_RACK/om-mx225.pdf)
   * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
 
+* FiberBox
+  * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
+  * Blackmagic Mini Converter Optical Fiber (12K): https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
 
 ### Cable types
 
