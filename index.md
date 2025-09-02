@@ -53,25 +53,27 @@ two are placed in frond of the tv for the film team one is placed left between t
   * 1.6.2 on the bottem there is a stream deck mini, on there is a hillsong setting and a 35% setting makes sure these are selected
 
 * 1.7 stageScreens 
-  * 1.7.1 We have two stage screens in the auditorium, one in front of the auditorium on the left side of the stage before the piano, this screen, stand and power cable can be found in a case called 8x screens. this screen is connected to the fiberbox under the stage on the left side with a sdi cable av uses the last port of the fiberbox![StageScreenFront](/av_guide_images/AV_StageScreenFront.jpeg) looks like: ![FiberBox](/av_guide_images/FiberboxFront.jpeg)
-  * 2.7.2 The second screen is on a truss in the storage. The sdi and power cable is included in the truss. We put the screen in the back in the middle of the auditorium. this screen we conned to the fiberbox that lays in the FOH also for this we use the last output ![StageScreenBack](/av_guide_images/AV_Tv_placement.jpeg) ![StageScreenPower](/av_guide_images/AV_TvPowerCable.jpeg) ![StageScreenSdi](/av_guide_images/AV_TvSdi.jpeg)
+  * 1.7.1 We have two stage screens in the auditorium, one in front of the auditorium on the left side of the stage before the piano, this screen, stand and power cable can be found in a case called 8x screens. this screen is connected to the fiber-box under the stage on the left side with a sdi cable av uses the last port of the fiber-box ![StageScreenFront](/av_guide_images/AV_StageScreenFront.jpeg) looks like: ![FiberBox](/av_guide_images/FiberboxFront.jpeg)
+  * 2.7.2 The second screen is on a truss in the storage. The sdi and power cable is included in the truss. We put the screen in the back in the middle of the auditorium. this screen we conned to the fiber-box that lays in the FOH also for this we use the last output ![StageScreenBack](/av_guide_images/AV_Tv_placement.jpeg) ![StageScreenPower](/av_guide_images/AV_TvPowerCable.jpeg) ![StageScreenSdi](/av_guide_images/AV_TvSdi.jpeg)
   
 This was the setup for av
 
 2. **8am - 10am**: Test all AV equipment to ensure everything is functioning properly. Make any necessary adjustments. prepare for the service
 * 1 prayer and praise and screens
-  * 1.2 go to the gmail and get the prayer and praises for that day place the prayers on the prayers slide in propresenter and the praises on the praises slide in propresenter if needed copy the slide and split the praises/prayers over multiple slides 
-  * 1.3 get the sreens from the onedrive and place them in the correct section in propresenter
-  * 1.4 make sure you scill to fill the photo is selected in propresenter videos are normally not scill to fill because the people in the video will be cut off or appear very wide.
+  * 1.2 go to the gmail and get the prayer and praises for that day place the prayers on the prayers slide in pro-presenter and the praises on the praises slide in pro-presenter if needed copy the slide and split the praises/prayers over multiple slides 
+  * 1.3 get the screens from the onedrive and place them in the correct section in pro-presenter
+  * 1.4 make sure you scale to fill the photo is selected in pro-presenter videos are normally not scale to fill because the people in the video will be cut off or appear very wide.
 
 ### pack-down
 
 Pack down is basically the reverse of the setup process but there are a few things to keep in mind:
 * first turn off the pc's in the cases, then turn off the server rack on the back side by switching all 4 power switches to the off position from bottom to top.
-* Then turn off the LED screen press the big power button of the LED controller then twist the knop and press power down do this for both led controllers, when they both show a red light you can proseed by switching all red switches down starting with the one labeled hooftschakelaar then do the other two red switches ![ledScreenRackOff](/av_guide_images/AV_ServerRackOff.jpeg)
+* Then turn off the LED screen press the big power button of the LED controller then twist the knop and press power down do this for both led controllers, when they both show a red light you can proceed by switching all red switches down starting with the one labeled hooftschakelaar then do the other two red switches ![ledScreenRackOff](/av_guide_images/AV_ServerRackOff.jpeg)
 * Then start disconnecting all cables and pack everything back in the cases.
-* Try to roll all cables up in this way this wil ensure the cables last longer: https://youtu.be/uKlaXb-fLrg?si=7k0wZazKSaeWO31q
+* Try to roll all cables up in this way this wil ensure the cables last longer: [click here](https://youtu.be/uKlaXb-fLrg?si=7k0wZazKSaeWO31q)
 * The server rack and the playout need to go back in the hallway between subroom 1 and the auditorium all other cases go to the storage.
+* The cable though the wall needs to be rolled up around the gray hanger on the wall like the photo: ![CableHanger](/av_guide_images/RolledUpCable.jpeg)
+* Make sure the greengo case has the correct amount of greengo's in them: ![GreengoCaseheadsets](/av_guide_images/GreengoCaseheadsets.jpeg)
 
 ### equipment
 
@@ -81,53 +83,53 @@ In here we describe the equipment present in the av setup how they work what you
  * Allen & heath DT168: [DT168-Getting-Started](/Documents/AV_SERVER_RACK/AP11788_4-DT168-Getting-Started-Guide-Issue-4.pdf) [DT168-Technical-Datasheet](/Documents/AV_SERVER_RACK/DT168-Technical-Datasheet.pdf) 
  * Allen & heath SQ-5: [SQ-5-Introduction](/Documents/AV_SERVER_RACK/SQ5_AP11089_Introduction_issue2.pdf) [SQ-5-Technical-Datasheet](/Documents/AV_SERVER_RACK/SQ-5-Technical-Datasheet_G.pdf)
  * Luminex GigaCore 26i: [GigaCore-26i-Manual](/Documents/AV_SERVER_RACK/User-Manual_GigaCore-26i_rev-2.8.8.pdf)
- * Ubiquiti Security Gateway Professional USG-PRO-4: https://dl.ubnt.com/qsg/USG-PRO-4/USG-PRO-4_EN.html#OnlineResources [USG-PRO-4-Manual](/Documents/AV_SERVER_RACK/UniFi_Security_Gateway_DS.pdf)
- * Blackmagic Design HyperDeck Studio 4K Pro: [HyperDeck-Studio-4K-Pro-techspecs](/Documents/AV_SERVER_RACK/hyperdeck-studio-4k-pro-techspecs.pdf) https://documents.blackmagicdesign.com/UserManuals/HyperDeckHDManual.pdf
- * sonifex DIO10: https://www.sonifex.com/avn/avn-dio10-12g.shtml
- * Blackmagic Mini Converter SDI to Audio 4k: [Sdi-To-Audio-Tech-Sheet](/Documents/AV_SERVER_RACK/mini-converter-sdi-to-audio-techspecs.pdf)  https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
- * Dante avio: https://www.getdante.com/products/adapters/dante-avio-adapters/
+ * Ubiquiti Security Gateway Professional USG-PRO-4: [USG-PRO-4-Manual](/Documents/AV_SERVER_RACK/UniFi_Security_Gateway_DS.pdf)
+ * Blackmagic Design HyperDeck Studio 4K Pro: [HyperDeck-Studio-4K-Pro-techspecs](/Documents/AV_SERVER_RACK/hyperdeck-studio-4k-pro-techspecs.pdf) [Manual](https://documents.blackmagicdesign.com/UserManuals/HyperDeckHDManual.pdf)
+ * sonifex DIO10: [info](https://www.sonifex.com/avn/avn-dio10-12g.shtml)
+ * Blackmagic Mini Converter SDI to Audio 4k: [Sdi-To-Audio-Tech-Sheet](/Documents/AV_SERVER_RACK/mini-converter-sdi-to-audio-techspecs.pdf)  [Manual](https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf)
+ * Dante avio: [info](https://www.getdante.com/products/adapters/dante-avio-adapters/)
  * AJA HELO: [aja-helo](/Documents/AV_SERVER_RACK/AJA_HELO_Manual_v4.0.pdf)  [aja-helo-techspecs](/Documents/AV_SERVER_RACK/helo-spec-sheet.pdf)
- * Blackmagic Web Presenter HD: https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+ * Blackmagic Web Presenter HD: [manual](https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf)
  * Art mx225: [Art-mx225-manual](/Documents/AV_SERVER_RACK/om-mx225.pdf)
- * Resi Encoder E2211: Contact Resi for questions https://resi.io/support/
- * Blackmagic Atem constellation 8k: https://www.blackmagicdesign.com/nl/developer/products/atem/resources
- * Blackmagic videohub 20x20: https://documents.blackmagicdesign.com/UserManuals/VideohubInstallation.pdf
- * Blackmagic Mini Converter Optical Fiber (12K): https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+ * Resi Encoder E2211: Contact Resi for questions [support](https://resi.io/support/)
+ * Blackmagic Atem constellation 8k: [Manual](https://www.blackmagicdesign.com/nl/developer/products/atem/resources)
+ * Blackmagic videohub 20x20: [Manual](https://documents.blackmagicdesign.com/UserManuals/VideohubInstallation.pdf)
+ * Blackmagic Mini Converter Optical Fiber (12K): [manual](https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf)
  * Decimator 12G-CROSS: [Decimator-Manual](/Documents/AV_SERVER_RACK/12G-CROSS_HARDWARE_MANUAL_FV1.0.pdf)
 
 * playout case
   * Mac pro 2019
-    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter 
-    * ProVideoPlayer: https://www.renewedvision.com/provideoplayer https://support.renewedvision.com/hc/en-us/sections/360002436053-ProVideoPlayer
+    * ProPresenter: [info](https://www.renewedvision.com/propresenter) [support](https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter)
+    * ProVideoPlayer: [info](https://www.renewedvision.com/provideoplayer) [support](https://support.renewedvision.com/hc/en-us/sections/360002436053-ProVideoPlayer)
   * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
-  * Blackmagic sdi to hdmi 3g: https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+  * Blackmagic sdi to hdmi 3g: [manual](https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf)
 
 * overlay case
   * Mac mini m1
-    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter 
+    * ProPresenter: [info](https://www.renewedvision.com/propresenter) [support](https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter)
   * Echo III Rackmount: [Echo-III-Rackmount-Manual](/Documents/echo_iii_rackmount_ug.pdf)
-    * Blackmagic Decklink Duo 2: https://www.blackmagicdesign.com/nl/welcome/en
+    * Blackmagic Decklink Duo 2: [manual](https://www.blackmagicdesign.com/nl/welcome/en)
   * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
 
 * admin case
   * Mac mini m1
-    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter
+    * ProPresenter: [info](https://www.renewedvision.com/propresenter) [support](https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter)
   * Echo III Rackmount: [Echo-III-Rackmount-Manual](/Documents/echo_iii_rackmount_ug.pdf)
-      * Blackmagic Decklink Duo 2: https://www.blackmagicdesign.com/nl/welcome/en
-  * Resi Decoder D2010: Contact Resi for questions https://resi.io/support/
+      * Blackmagic Decklink Duo 2: [manual](https://www.blackmagicdesign.com/nl/welcome/en)
+  * Resi Decoder D2010: Contact Resi for questions [support](https://resi.io/support/)
   * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
 
 * Songwords case
   * Mac mini m1
-    * ProPresenter: https://www.renewedvision.com/propresenter https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter
+    * ProPresenter: [info](https://www.renewedvision.com/propresenter) [support](https://support.renewedvision.com/hc/en-us/sections/360002412274-ProPresenter)
   * Echo III Rackmount: [Echo-III-Rackmount-Manual](/Documents/echo_iii_rackmount_ug.pdf)
-      * Blackmagic Decklink Duo 2: https://www.blackmagicdesign.com/nl/welcome/en
+      * Blackmagic Decklink Duo 2: [manual](https://www.blackmagicdesign.com/nl/welcome/en)
   * Art mx225: [Art-mx225-manual](/Documents/AV_SERVER_RACK/om-mx225.pdf)
   * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
 
 * FiberBox
   * Luminex GigaCore 12: [GigaCore-12-Manual](/Documents/Playout/GigaCore_12_User_Manual-rev-2.8.7.pdf)
-  * Blackmagic Mini Converter Optical Fiber (12K): https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf
+  * Blackmagic Mini Converter Optical Fiber (12K): [manual](https://documents.blackmagicdesign.com/UserManuals/BlackmagicConvertersManual.pdf)
 
 ### Cable types
 
@@ -141,7 +143,7 @@ In here we describe the equipment present in the av setup how they work what you
 ![Jack Cable](/av_guide_images/CableConnectors/jack.jpg)
 * Ethernet (RJ45): A type of connector commonly used for networking equipment. It is typically used for connecting computers and other devices to a local area network (LAN).
 ![Ethernet Cable](/av_guide_images/CableConnectors/ethernet.jpg) ![Ethernet Cable2](/av_guide_images/CableConnectors/2109-etherCON-NE8MXX-B.png)
-* Fiber optic: A type of cable that uses light to transmit data. It is typically used
+* Fiber optic: A type of cable that uses light to transmit data.
 ![Optical Fiber Cable](/av_guide_images/CableConnectors/fiberoptic.jpeg) ![opticalcon](/av_guide_images/CableConnectors/3868-opticalCONADVANCEDCableConnectorMTP12.png)
 * Power (Euro and Tulp): Cables used to provide electrical power to devices. Euro cables are commonly used in Europe, while Tulp cables are commonly used in consumer electronics.
 ![c13](/av_guide_images/CableConnectors/c13.jpg) ![Power Cable Tulp](/av_guide_images/CableConnectors/tulp.webp) ![twinoppower](/av_guide_images/CableConnectors/twopinPower.jpg)
